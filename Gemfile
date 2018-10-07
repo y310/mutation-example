@@ -1,3 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'graphql'
+gem 'graphql', path: '../graphql-ruby'
+gem 'pry-byebug'
